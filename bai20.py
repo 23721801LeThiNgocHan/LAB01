@@ -17,5 +17,5 @@ else:
     if b>=a and b>=c:
         lonnhat = b
     else:
-        lonhat = c
+        lonnhat = c
 print("Số lớn nhất là: ",lonnhat)
